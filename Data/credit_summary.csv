@@ -1,0 +1,15 @@
+education,sex,total_clients,total_defaults,default_rate,education_label,gender_label
+4,2,81,3,3.7,others,female
+4,1,42,4,9.52,others,male
+5,1,95,6,6.32,others,male
+1,1,4354,906,20.81,graduate_school,male
+0,1,8,0,0.0,others,male
+2,2,8656,1922,22.2,university,female
+1,2,6231,1130,18.14,graduate_school,female
+5,2,185,12,6.49,others,female
+3,1,1990,545,27.39,high_school,male
+6,2,26,4,15.38,others,female
+3,2,2927,692,23.64,high_school,female
+2,1,5374,1408,26.2,university,male
+6,1,25,4,16.0,others,male
+0,2,6,0,0.0,others,female
