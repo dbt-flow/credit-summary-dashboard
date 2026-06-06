@@ -189,7 +189,7 @@ DIVIDE([Total Defaults], [Total Clients])
 
 🚀 9. How to Reproduce This Project
 Clone the repository
-git clone https://github.com/NancySushma/credit-summary-dashboard.git
+git clone https://github.com/dbt-flow/credit-summary-dashboard.git
 cd credit-summary-dashboard
 
 Upload data to ADLS Bronze folder
